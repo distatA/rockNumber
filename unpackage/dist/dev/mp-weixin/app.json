@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/countDown/countDown",
+    "pages/index/index",
+    "pages/login/login",
+    "pages/myBackup/myBackup",
+    "pages/order/order",
+    "pages/help/help",
+    "pages/orderDetail/orderDetail",
+    "pages/myBackupDetail/myBackupDetail",
+    "pages/roomRuls/roomRuls"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#BFBFBF",
+    "selectedColor": "#6337CC",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/index.png",
+        "selectedIconPath": "static/indexFoucs.png",
+        "text": "房源列表"
+      },
+      {
+        "pagePath": "pages/myBackup/myBackup",
+        "iconPath": "static/myBackup.png",
+        "selectedIconPath": "static/myBackupFoucs.png",
+        "text": "我的备选"
+      },
+      {
+        "pagePath": "pages/order/order",
+        "iconPath": "static/order.png",
+        "selectedIconPath": "/static/orderFoucs.png",
+        "text": "订单"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap68.json"
+}

@@ -1,0 +1,99 @@
+.container .title.data-v-b237504c {
+  margin: 50rpx 0rpx 0rpx 86rpx;
+  font-size: 52rpx;
+  font-weight: 500;
+}
+.container .titleTwo.data-v-b237504c {
+  margin: 16rpx 0rpx 0rpx 86rpx;
+  font-size: 52rpx;
+  font-weight: 500;
+}
+.container .content.data-v-b237504c {
+  margin-top: 250rpx;
+  padding: 0 40rpx;
+}
+.container .content .userPhone.data-v-b237504c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  width: 100%;
+  height: 116rpx;
+  border-bottom: 2rpx solid #EAEAEA;
+}
+.container .content .userPhoneName.data-v-b237504c {
+  width: 150rpx;
+  font-size: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.container .content .input.data-v-b237504c {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: 100%;
+}
+.container .content .password.data-v-b237504c {
+  border-bottom: 2rpx solid #EAEAEA;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  width: 100%;
+  height: 116rpx;
+}
+.container .content .code.data-v-b237504c {
+  box-sizing: border-box;
+  z-index: 99;
+  position: absolute;
+  right: 40rpx;
+  top: auto;
+  padding: 0 10rpx;
+  min-width: 160rpx;
+  max-width: 200rpx;
+  height: 70rpx;
+  border-radius: 10rpx;
+  border: 2rpx solid #6337CC;
+  font-size: 24rpx;
+  color: #6337CC;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.btn.data-v-b237504c {
+  width: 500rpx;
+  height: 80rpx;
+  background: #6337CC;
+  border-radius: 10rpx;
+  font-size: 36rpx;
+  color: #FFFFFF;
+  font-weight: 500;
+  margin: 110rpx auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+

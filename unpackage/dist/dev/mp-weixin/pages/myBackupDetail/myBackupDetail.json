@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "房间明细",
+  "usingComponents": {
+    "count-down-time": "/componetnt/countDownTime"
+  }
+}

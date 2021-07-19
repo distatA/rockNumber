@@ -1,0 +1,1 @@
+<view class="countDown data-v-69788d20"><text class="data-v-69788d20">选房结束倒计时</text><text class="time data-v-69788d20">{{data}}</text><block wx:if="{{isShow}}"><view data-event-opts="{{[['tap',[['changeStatus',['$event']]]]]}}" class="{{['data-v-69788d20',status?'active':'check']}}" bindtap="__e">只看未选</view></block></view>

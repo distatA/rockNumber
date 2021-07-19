@@ -1,0 +1,106 @@
+.container.data-v-89d6e7b4 {
+  padding: 0 40rpx;
+}
+.container .title.data-v-89d6e7b4 {
+  font-size: 36rpx;
+  font-weight: 600;
+  text-align: center;
+  margin: 24rpx 0;
+}
+.container .content.data-v-89d6e7b4 {
+  margin-top: 30rpx;
+  text-align: justify;
+  font-size: 28rpx;
+}
+.container .warning.data-v-89d6e7b4 {
+  font-size: 28rpx;
+  color: #FF0000;
+  margin: 20rpx 0;
+}
+.container .detail.data-v-89d6e7b4 {
+  box-sizing: border-box;
+  width: 670rpx;
+  height: 296rpx;
+  background: #ECECEC;
+  font-size: 28rpx;
+  color: #000000;
+  padding: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  margin-bottom: 40rpx;
+}
+.container .isAgreeBox.data-v-89d6e7b4 {
+  font-size: 28rpx;
+  color: #bdbebf;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.container .isAgreeBox .agreeImg.data-v-89d6e7b4 {
+  margin-right: 20rpx;
+  width: 28rpx;
+  height: 28rpx;
+}
+.container .active.data-v-89d6e7b4 {
+  color: #6337CC;
+}
+.container .bottomBar.data-v-89d6e7b4 {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 90rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.container .bottomBar .disagree.data-v-89d6e7b4 {
+  height: 100%;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  font-size: 36rpx;
+  color: #000000;
+  background: #ECECEC;
+}
+.container .bottomBar .agree.data-v-89d6e7b4 {
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  font-size: 36rpx;
+  color: #FFFFFF;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  background: #6337CC;
+}
+

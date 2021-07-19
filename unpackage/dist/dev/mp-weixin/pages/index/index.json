@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "房源列表",
+  "usingComponents": {
+    "count-down-time": "/componetnt/countDownTime",
+    "empty": "/componetnt/empty"
+  }
+}
